@@ -11,3 +11,9 @@ int add(int a, int b){
 int sub(int a, int b){
     return a - b;
 }
+
+int nul {
+    
+    test test, test test (1,2)
+        
+    {
